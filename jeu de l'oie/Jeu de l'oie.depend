@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605531606 source:c:\users\easy cash\documents\ludus\algo\algo_lehman\code block\jeu de l'oie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
